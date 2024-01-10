@@ -1,0 +1,10 @@
+<superlattice>
+    <materials_repository root_directory="data"/>
+    <gridDensity A="24" B="24" C="24"/>
+    <compound name="AlN_cubic"/>
+    <compound name="GaN_cubic"/>
+    <normal na="0" nb="0" nc="1" nqline="501"/>
+    <layer mixfraction="0.5"/>
+<layer mixfraction="0.25"/>
+    <target directory="./AlN_GaN"/>
+</superlattice>

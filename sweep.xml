@@ -1,0 +1,7 @@
+<crossplanefilmsweep>
+    <H5repository root_directory="./"/>
+    <compound directory="AlN_GaN" base="{}" gridA="24" gridB="24" gridC="24"/>
+    <sweep type="log" start="1e-9" stop="1e-4" points="51"/>
+    <transportAxis x="0" y="0" z="1"/>
+    <target directory="result" file="AUTO"/>
+</crossplanefilmsweep>
